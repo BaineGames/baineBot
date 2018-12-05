@@ -1,0 +1,23 @@
+{
+  "name": "bainebot",
+  "version": "1.0.0",
+  "description": "Simple discord bot project",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaineGames/baineBot.git"
+  },
+  "author": "BaineGames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaineGames/baineBot/issues"
+  },
+  "homepage": "https://github.com/BaineGames/baineBot#readme"
+}
