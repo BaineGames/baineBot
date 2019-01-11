@@ -3,7 +3,7 @@ const client = new Discord.Client({
   autoReconnect: true
 });
 const config = require("./config.json");
-const allowedChannelIds = ["456117300446232578", "458217769515876352", "519915583429541918"]; //519915583429541918 is baines test channel on his server
+const allowedChannelIds = ["456117300446232578", "458217769515876352", "519915583429541918", "456109329456562187", "457097244852879360"]; //519915583429541918 is baines test channel on his server
 
 
 client.on("ready", () => {
